@@ -71,10 +71,12 @@ header li:hover{
 }
 
 
+
 /*CONT*/
 .cont{
     grid-area: cont;
 }
+
 
 
 /*RESERVA*/
